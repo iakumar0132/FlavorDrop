@@ -15,7 +15,7 @@ export default function Footer() {
         <li className="ms-3"><a className="text-muted" href="/"><svg className="bi" width="24" height="24"><use ></use></svg></a></li>
         <li className="ms-3"><a className="text-muted" href="/"><svg className="bi" width="24" height="24"><use></use></svg></a></li>
       </ul>
-      <a href='https://www.linkedin.com/in/iakumar0132/' target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2RYeN56EvozwyyxYGDw4dTu-pbUZyNxnF93zSLUcOlQ&s" alt='' style={{ width: '40px', height: '40px', marginLeft: '160px' }}></img>
+      <a href='https://www.linkedin.com/in/iakumar0132/' target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2RYeN56EvozwyyxYGDw4dTu-pbUZyNxnF93zSLUcOlQ&s" alt='' style={{ width: '25px', height: '25px', marginLeft: '165px' }}></img>
 </a>
       <div className='dev text-muted'>Developed By Anshu Kumar</div>
     </footer>
